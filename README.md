@@ -28,7 +28,7 @@ You can publish this website using GitHub pages, or on other platforms, see [her
 
 Assuming you have a GitHub account that is:
 
-1. Fork this repo (in the top right) of [this page](https://github.com/Smule11/Starter-Quarto-Website/) to make your own website repository.
+1. Click the template button (or click the fork button in the top right) on [this page](https://github.com/Smule11/Starter-Quarto-Website/) to make your own website repository.
 
 2. Go into the settings of your new website repo, and edit the settings for "Pages" (on the middle left somewhere):
 
